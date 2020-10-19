@@ -3,4 +3,5 @@ Plus Narrative Assessment Front-End </br>
 •	If you are on windows OS, hold the shift key and right click. Choose ‘Open PowerShell Windows here’ option </br>
 •	Run ‘npm install’ command to install all the packages </br>
 •	After making these changes, you can open the solution in Visual Studio, Rebuild the project and debug. </br>
+• To join in as 2nd Player, open another tab in incognito mode and load the FrontEnd url
 
